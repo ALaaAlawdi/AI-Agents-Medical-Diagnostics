@@ -1,10 +1,10 @@
 ### Final Diagnosis:
 
 - **Panic Disorder/Anxiety-Related Episodes:**
-  - All three reports highlight symptoms consistent with panic attacks, such as intense chest pain, palpitations, shortness of breath, dizziness, sweating, and a feeling of impending doom. The patient's history of anxiety and the normal cardiac evaluations further support this diagnosis.
+  - All three reports highlight symptoms consistent with panic attacks, such as intense chest pain, palpitations, shortness of breath, dizziness, and a feeling of impending doom. The patient's history of anxiety and the high-stress nature of his job further support this diagnosis.
 
 - **Gastroesophageal Reflux Disease (GERD):**
-  - Both the cardiologist and pulmonologist reports suggest GERD as a potential cause of the patient's symptoms, including chest pain and respiratory issues. GERD can mimic cardiac symptoms and exacerbate respiratory symptoms due to acid reflux irritating the airways.
+  - Both the cardiologist and pulmonologist reports suggest GERD as a potential contributor to the patient's symptoms, including chest pain and respiratory discomfort. The patient's current use of PPIs and the potential for stress and dietary factors to exacerbate symptoms are noted.
 
-- **Anxiety-Induced Hyperventilation:**
-  - The pulmonologist report points to anxiety-induced hyperventilation as a possible cause of the patient's shortness of breath and chest discomfort during panic attacks. This aligns with the patient's history of anxiety and the nature of his symptoms.
+- **Premature Ventricular Contractions (PVCs):**
+  - The cardiologist report mentions occasional PVCs detected by the Holter monitor. While often benign, these can contribute to the sensation of palpitations, especially during periods of anxiety or stress, and may be more noticeable to the patient.

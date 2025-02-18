@@ -1,5 +1,19 @@
 from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
+import getpass
+import os
+from dotenv import load_dotenv
+import json, os
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# Loading API key from a dotenv file.
+load_dotenv(dotenv_path='.env')
+
+
+api_key = os.getenv("OPENAI_API_KEY")
+
+if not os.environ.get("OPENAI_API_KEY"):
+    os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 class Agent:
     def __init__(self, medical_report=None, role=None, extra_info=None):
@@ -50,7 +64,8 @@ class Agent:
                     Patient's Report: {medical_report}
                 """
             }
-        templates = templates[self.role]
+        if self.role != "MultidisciplinaryTeam":
+            templates = templates[self.role]
         return PromptTemplate.from_template(templates)
     
     def run(self):
